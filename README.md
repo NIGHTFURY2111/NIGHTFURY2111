@@ -42,12 +42,12 @@
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=NIGHTFURY2111&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
-<!--![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NIGHTFURY2111)
+<!--![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NIGHTFURY2111)-->
 
-<a href="https://www.hackerrank.com/NIGHTFURY2111?hr_r=1">
+<a href="https://www.hackerrank.com/himanshsaraswat?hr_r=1">
     <img src="assets/hackerrank.png">
 </a>
-<br>
+<!--<br>
 <a href="https://holopin.io/@arpitwastaken">
     <img src="https://holopin.me/arpitwastaken">
 </a>-->
