@@ -47,10 +47,10 @@
 <a href="https://www.hackerrank.com/himanshsaraswat?hr_r=1">
     <img src="assets/hackerrank.png">
 </a>
-<br>
-<a href="https://holopin.io/@arpitwastaken">
-    <img src="https://holopin.me/arpitwastaken">
-</a>-->
+<br>-->
+<a href="https://www.holopin.io/@nightfury2111">
+    <img src="https://www.holopin.me/@nightfury2111">
+</a>
 
 
 
