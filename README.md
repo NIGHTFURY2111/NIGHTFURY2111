@@ -1,7 +1,7 @@
 <img align="center" src="assets/banner.gif" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Himansh</h1>
-<h4 align="center">Currently pursuing a degree in computer science with specialization in Gaming Technology</h4>
+<h4 align="center">Currently pursuing a degree in computer science with a specialization in Gaming Technology</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NIGHTFURY2111&label=Profile%20views&color=0e75b6&style=flat" alt="NIGHTFURY2111" /> </p>
 
@@ -46,10 +46,10 @@
 
 <a href="https://www.hackerrank.com/himanshsaraswat?hr_r=1">
     <img src="assets/hackerrank.png">
-</a>
-<br>-->
-<a href="https://www.holopin.io/@nightfury2111">
-    <img src="https://www.holopin.me/@nightfury2111">
+</a>-->
+<br>
+<a href="https://holopin.io/@nightfury2111">
+    <img src="https://holopin.me/nightfury2111">
 </a>
 
 
